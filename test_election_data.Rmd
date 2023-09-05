@@ -1,6 +1,6 @@
 ---
-title: 'Lab 1: Comparing Means'
-author: "Wesley Kwong, Julie Lai, Anjali Unnithan"
+title: 'Comparing Means'
+author: "Sanya Chetwani"
 output:
   pdf_document: default
   html_document:
